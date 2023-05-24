@@ -14,9 +14,7 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MMG606)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

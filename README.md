@@ -5,10 +5,7 @@
 
   💻 Full Stack / Flutter Developer | 🛸 Lebanon  
   <hr>
-  
-  - Languages and Tools...
-html csharp js python react vue chrome cloud datascience aws npm gcp bash vscode
-  
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMG606&show_icons=true&count_private=true&theme=algolia&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <hr>

@@ -7,48 +7,7 @@
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMG606&theme=github-dark-blue&border_radius=25&card_width=500)](https://git.io/streak-stats)
 
-<!DOCTYPE html >
-<html>
-  
-<head>
-    <title>
-      Customized break example
-  </title>
-  
-    <style type="text/css">
-        .br {
-            display: block;
-            margin-bottom: 0em;
-        }
-          
-        .brmedium {
-            display: block;
-            margin-bottom: 1em;
-        }
-          
-        .brlarge {
-            display: block;
-            margin-bottom: 2em;
-        }
-    </style>
-</head>
-  
-<body>
-  
-    <h3>This page shows different 
-      break height between lines</h3>
-    <p> Hi User
-      <span class="brlarge"></span>
-      Welcome to
-      <span class="brmedium"></span> 
-      Geeks for geeks.
-      <span class="br"></span> 
-      Hope you have enjoyed your stay.
-    </p>
-    
-</body>
-  
-</html>
+
 <!--
 **MMG606/MMG606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

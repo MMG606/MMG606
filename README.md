@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+san&weight=800&duration=2000&pause=1000&color=164FFF&center=true&vCenter=true&width=435&height=100&lines=Hello+there+!+%F0%9F%91%8B;This+is+MMG;Welcome+to+my+Profile+%F0%9F%98%84)](https://git.io/typing-svg)
   
  ![](https://komarev.com/ghpvc/?username=MMG606&label=PROFILE+VIEWS)
-<img src="[img_girl.jpg](https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966 width="500" height="600">
+<img src="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966 width="500" height="600">
   <p>
 <!--   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>

@@ -5,7 +5,8 @@
   
  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Girl in a jacket" width="50" height="50"> ![](https://komarev.com/ghpvc/?username=MMG606&label=PROFILE+VIEWS) <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" alt="Girl in a jacket" width="50" height="50">
   
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+  <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
   
   <p>
 <!--   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>

@@ -1,7 +1,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+san&weight=800&duration=2000&pause=1000&color=164FFF&center=true&vCenter=true&width=435&height=100&lines=Hello+there+!+%F0%9F%91%8B;This+is+MMG;Welcome+to+my+Profile+%F0%9F%98%84)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+san&weight=800&duration=2000&pause=1000&color=164FFF&center=true&vCenter=true&width=435&height=100&lines=Hello+there+!+%F0%9F%91%8B;This+is+MMG;Welcome+to+my+Profile+%F0%9F%98%84)](https://git.io/typing-svg)
 
   💻 Full Stack / Flutter Developer | 🛸 Lebanon  
   <hr>
@@ -14,7 +14,7 @@
 <br>
 <hr>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) <span>  </span> [![trophy](https://github-profile-trophy.vercel.app/?username=MMG606&theme=algolia&row=2&column=3&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  [![trophy](https://github-profile-trophy.vercel.app/?username=MMG606&theme=algolia&row=2&column=3&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
 </div>

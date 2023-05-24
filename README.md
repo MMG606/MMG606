@@ -3,7 +3,7 @@
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=MMG606&theme=algolia&row=2&column=3&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMG606&theme=github-dark-blue&border_radius=25&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMG606&theme=github-dark-blue&border_radius=25&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 
 <!--

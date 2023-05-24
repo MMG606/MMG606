@@ -68,7 +68,7 @@
 
 <hr>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=MMG606&theme=algolia&row=2&column=3&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=MMG606&theme=algolia&row=2&column=3&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
   

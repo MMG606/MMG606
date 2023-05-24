@@ -5,6 +5,8 @@
   
  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Girl in a jacket" width="50" height="50"> ![](https://komarev.com/ghpvc/?username=MMG606&label=PROFILE+VIEWS) <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" alt="Girl in a jacket" width="50" height="50">
   
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+  
   <p>
 <!--   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>

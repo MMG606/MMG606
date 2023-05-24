@@ -7,7 +7,7 @@
 <br>
 <hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMG606&theme=github-dark-blue&border_radius=25&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMG606&theme=algolia&border_radius=25&card_width=500)](https://git.io/streak-stats)
 <br>
 <hr>
 

@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMG606&show_icons=true&count_private=true&theme=algolia&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-<br>
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+san&weight=800&duration=2000&pause=1000&color=164FFF&center=true&vCenter=true&width=435&height=100&lines=Hello+there+!+%F0%9F%91%8B;This+is+MMG;Welcome+to+my+profile+%F0%9F%98%84)](https://git.io/typing-svg)
 <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMG606&show_icons=true&count_private=true&theme=algolia&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMG606&theme=github-dark-blue&border_radius=25&card_width=500)](https://git.io/streak-stats)
 <br>

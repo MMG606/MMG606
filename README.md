@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+san&weight=800&duration=2000&pause=1000&color=164FFF&center=true&vCenter=true&width=435&height=100&lines=Hello+there+!+%F0%9F%91%8B;This+is+MMG;Welcome+to+my+Profile+%F0%9F%98%84)](https://git.io/typing-svg)
   
- 
+ ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
 <h3 align="center">A passionate 💻 Full Stack / Flutter Developer from Lebanon 🛸</h3>
 <hr>

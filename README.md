@@ -15,8 +15,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMG606&theme=algolia&border_radius=25&card_width=500)](https://git.io/streak-stats)
 
 <hr>
-</div>
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  [![trophy](https://github-profile-trophy.vercel.app/?username=MMG606&theme=algolia&row=2&column=3&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
+</div>

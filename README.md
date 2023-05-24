@@ -1,6 +1,6 @@
 
   
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+san&weight=800&duration=2000&pause=1000&color=164FFF&center=true&vCenter=true&width=435&height=100&lines=Hello+there+!+%F0%9F%91%8B;This+is+MMG;Welcome+to+my+Profile+%F0%9F%98%84)](https://git.io/typing-svg)
 <hr>
 
@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 <!--
 **MMG606/MMG606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

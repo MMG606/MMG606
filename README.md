@@ -69,7 +69,7 @@
 
 <hr> 
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMG606&theme=algolia&border_radius=25&card_width=500)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606&hide_progress=true&layout=Donut Chart layout)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MMG606&theme=algolia&border_radius=25&card_width=500)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606&hide_progress=true&layout=DonutChartlayout)
 
 <hr>
  

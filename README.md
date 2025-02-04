@@ -33,8 +33,6 @@
   <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
    <img src="https://aleen42.github.io/badges/src/reddit.svg"/>
-    
-
   </p>
 </p>
 <p>
@@ -61,15 +59,14 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   </p>
-  
-  <hr>
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMG606&hide_progress=false&theme=algolia&langs_count=6&layout=compact)
 
 <hr>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMG606&show_icons=true&count_private=true&theme=algolia&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=MMG606&theme=algolia&row=2&column=3&title=multilanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMG606&show_icons=true&count_private=true&theme=algolia&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MMG606&theme=algolia&row=2&column=3&title=multilanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) 
 
-  
 </div>

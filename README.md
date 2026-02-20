@@ -37,7 +37,7 @@
 </p>
 <p>
   
-<h3 align="center">A passionate 💻 Full Stack / Flutter Developer from Lebanon 🛸</h3>
+<h3 align="center">A Passionate 💻 Full Stack | Flutter Developer from Lebanon 🛸</h3>
 <hr>
 <h3 align="centre">Languages and Tools:</h3>
 <p align="centre"> 

@@ -66,7 +66,7 @@
 
 <hr>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMG606&show_icons=true&count_private=true&theme=algolia&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMG606&show_icons=true&count_private=true&theme=algolia&hide=contribs,prs)(https://github.com/anuraghazra/github-readme-stats) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MMG606&theme=algolia&row=2&column=3&title=multilanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) 
 

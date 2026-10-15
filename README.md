@@ -51,15 +51,6 @@ I'm a **Full-Stack Developer from Lebanon** who specializes in **Flutter** and *
 
 <br/>
 
-## 💼 Experience
-
-| Period | Role | Company |
-|:--|:--|:--|
-| **09/2023 – Present** | Flutter / .NET Developer | **EDM Software Solutions** |
-| 08/2022 – 09/2023 | Full-Stack / Flutter Developer | **GIBlox** |
-| 11/2021 – 02/2022 | Frontend Developer (Internship) | Behind Pixels |
-
-<br/>
 
 ## 🚀 Featured Projects
 

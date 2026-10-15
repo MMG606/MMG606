@@ -114,8 +114,6 @@ I'm a **Full-Stack Developer from Lebanon** who specializes in **Flutter** and *
 
 <br/><br/>
 
-<i>"Make it work, make it right, make it fast."</i>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0838CD&height=100&section=footer" alt="footer" width="100%"/>
 
 </div>

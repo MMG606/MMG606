@@ -110,7 +110,6 @@ I'm a **Full-Stack Developer from Lebanon** who specializes in **Flutter** and *
 
 <a href="https://mmg-lb.pages.dev"><img src="https://img.shields.io/badge/Website-0838CD?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:mohammadghalayini606@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/MMG606"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
